@@ -1,0 +1,51 @@
+*
+{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.cal
+{
+    width: 40%;
+    margin: 10vh 30%;
+}
+/* .head
+{
+    display: flex;
+    justify-content: space-between;
+}
+.theme
+{
+    display: flex;
+
+}
+.theme-op
+{
+    display: flex;
+} */
+input[type=text]
+{
+    background-color: rgba(0, 0, 0, 0.336);
+    margin: 10px;
+    width: 95%;
+    text-align: right;
+    color: black;
+    border: 0px;
+    font-size: 24px;
+    height: 50px;
+    border-radius: 10px;
+}
+button
+{
+    margin: 4%;
+    height: 5em;
+    border-radius: 20px;
+}
+button.no
+{
+    width: 15%;
+}
+button.fun
+{
+    width: 38%;
+}
